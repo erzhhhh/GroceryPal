@@ -1,6 +1,6 @@
-# GroceryList 🛒🥦
+# GroceryPal 🛒🥦
 
-GroceryList is a simple Android app to manage your shopping list. Track items, add new products, and check off what you need — all with a clean UI and smooth interactions.
+GroceryPal is a simple Android app to manage your shopping list. Track items, add new products, and check off what you need — all with a clean UI and smooth interactions.
 
 ---
 
