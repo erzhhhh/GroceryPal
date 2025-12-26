@@ -41,22 +41,6 @@ Perfect for practicing Android development and using common architecture pattern
 
 ---
 
-## Getting started 🚀
-
-1. Clone the repo:
-
-   ```bash
-   git clone https://github.com/erzhhhh/GroceryList.git
-   cd GroceryList
-   ```
-2. Open in Android Studio 🏗️
-3. Sync Gradle and build the project 🔄
-4. Run on a device or emulator 📱
-
-> All data is stored locally — no API keys required! 🏠
-
----
-
 ## Project structure 🗂️
 
 ```
